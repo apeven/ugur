@@ -2,7 +2,7 @@
 title: Dennis Brotzky
 bio: "\n"
 avatar: "/images/dennis-brotzky.jpg"
-featured: true
+featured: false
 social:
 - title: unsplash
   url: https://unsplash.com
