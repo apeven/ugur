@@ -6,6 +6,5 @@ social:
 - title: TikTok
   url: tiktok.com
 featured: true
-draft: true
 
 ---
