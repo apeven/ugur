@@ -1,5 +1,5 @@
 baseURL: "https://example.com"
-languageCode: "tr-tr"
+languageCode: "tr-TR"
 title: "apeven's blog"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
