@@ -1,5 +1,5 @@
 ---
-title: Brad Tiller
+title: Küvetçi Reis
 bio: 'Reklam - CZN Burak abim ile sizi küvete bekliyoruz!
 
 '
