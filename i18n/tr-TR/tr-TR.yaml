@@ -1,4 +1,0 @@
-{{ i18n "timeToRead" .TimeToRead }}
-[TimeToRead]
-1 = "1 dakika"
-other = "{{.timeToRead}} dakika"
