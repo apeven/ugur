@@ -17,3 +17,5 @@ social:
   linkedin: "#"
   dribbble: "#"
   youtube: "#"
+taxonomies:
+  author: authors
