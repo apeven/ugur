@@ -1,9 +1,9 @@
 ---
 title: Küvetçi Reis
-bio: 'Reklam - CZN Burak abim ile sizi küvete bekliyoruz!
+bio: 'Reklam - CZN Burak abim ile sizi Küvetçi Oses''e bekliyoruz!
 
 '
-avatar: "/images/brad-tiller.jpg"
+avatar: "/images/indir.jfif"
 social:
 - title: github
   url: https://github.com
