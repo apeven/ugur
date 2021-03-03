@@ -4,11 +4,7 @@ title: "apeven's blog"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
-# Theme settings
-# theme: novela
-module:
-  imports:
-    - path: "github.com/forestryio/hugo-theme-novela"
+# settings
 paginate: 30
 social:
   twitter: "#"
