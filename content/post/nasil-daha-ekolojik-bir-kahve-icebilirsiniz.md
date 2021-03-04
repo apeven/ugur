@@ -5,7 +5,6 @@ title: Nasıl daha ekolojik bir kahve içebilirsiniz?
 excerpt: ''
 date: 2021-03-03T21:00:00.000+00:00
 hero: "/images/coffee.png"
-draft: true
 
 ---
 Merhaba, hepimiz kahve içmeyi seviyoruz. Fakat içtiğimiz bazı kahveler dünyamız için zannettiğimizden çok daha zararlı. Peki dünyaya zarar vermeden nasıl kahve içebiliriz? Aşağıdaki 5 basit adımı uygulayarak!
