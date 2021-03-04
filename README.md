@@ -2,8 +2,8 @@
 
 ### This hugo theme was created by using Narative's Novella theme ported by Forestry to Hugo, translated to Turkish.
 
--[Visit Narative](narative.co)
--[Visit Forestry](forestry.io)
+- [Visit Narative](https://narative.co)
+- [Visit Forestry](https://forestry.io)
 
 ### Bu hugo teması Narative'in Novella temasının Forestry tarafından Hugo'ya portunun Türkçe'ye çevirilmesiyle oluşturulmuştur.
 
