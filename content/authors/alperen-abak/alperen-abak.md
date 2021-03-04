@@ -1,6 +1,6 @@
 ---
 title: Alperen Abak
-bio: Öğrenci
+bio: 'Öğrenci '
 avatar: ''
 social: []
 featured: false
