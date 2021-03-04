@@ -7,8 +7,8 @@
 
 ### Bu hugo teması Narative'in Novella temasının Forestry tarafından Hugo'ya portunun Türkçe'ye çevirilmesiyle oluşturulmuştur.
 
--[Narative'yi ziyaret et](narative.co)
--[Forestry'i ziyaret et](forestry.io)
+- [Narative'yi ziyaret et](https://narative.co)
+- [Forestry'i ziyaret et](https://forestry.io)
 
 # blog.apeven.me
 
