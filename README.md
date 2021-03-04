@@ -1,49 +1,45 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8fd7da5f-0c4d-4a43-9e23-2d1baf0d35cc/deploy-status)](https://app.netlify.com/sites/hugo-novela-forestry/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9a01b648-edcb-4792-bf7a-b487f6cc44f2/deploy-status)](https://app.netlify.com/sites/blog-apeven/deploys)
 
-# Hugo Novela Forestry Starter
+### This hugo theme was created by using Narative's Novella theme ported by Forestry to Hugo, translated to Turkish.
 
-A port of [Narative](https://www.narative.co/)'s Gatsby theme [Novela](https://www.narative.co/labs/novela/)
+-[Visit Narative](narative.co)
+-[Visit Forestry](forestry.io)
 
-![](images/tn.png)
+### Bu hugo teması Narative'in Novella temasının Forestry tarafından Hugo'ya portunun Türkçe'ye çevirilmesiyle oluşturulmuştur.
 
-<a href="https://app.forestry.io/quick-start?repo=forestryio/novela-hugo-starter&engine=hugo&version=0.80.0">
-    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
-</a>
+-[Narative'yi ziyaret et](narative.co)
+-[Forestry'i ziyaret et](forestry.io)
 
-## Prerequisites
+# blog.apeven.me
 
-This starter is importing the theme as a [Hugo Module](https://gohugo.io/hugo-modules/)
+Forestry'nin [Hugo Novela](https://github.com/forestryio/hugo-theme-novela) portunun geliştirilmiş ve Türkçe'ye çevrilmiş versiyonu.
 
-- Go > 1.12
-- Hugo > 0.65.0 
+## Gereksinimler
 
-## Content Management
+Bu  site [Hugo Module](https://gohugo.io/hugo-modules/) kullanarak yapılmıştır.
 
-![Forestry user interface](images/novela-forestry.png)
+- Go versiyonu > 1.12
+- Hugo versiyonu > 0.65.0 
 
-This starter is ready to be imported into [Forestry](https://forestry.io)  ✨.
+## İçerik Yönetimi
 
-Any changes you save in the CMS will be commited back to your Git repository.
+Bu sitede [Forestry](https://forestry.io) kullanarak içeriklerinizi rahatça yönetebillirsiniz  ✨.
+
+Sitenizde yapacağınız herhangi bir değişiklik anında git reponuza kaydolacaktır.
 
 ## Deploy on Netlify
 
-Import your repository in [Netlify](https://netlify.com)
+Reponuzu [Netlify](https://netlify.com)'a aktarın
 
-1. Create a new site in Netlify and import your repository.
-2. Set the build command to: `hugo --gc --minify`
-3. Set the publish directory to: `public`
-4. Set `GO_VERSION` to `1.12` or above
-4. Set `HUGO_VERSION` to `0.65.3` or above
+1. Netlify'da yeni bir site yaratın ve reponuzu içeri aktarın.
+2. build command'ı yandaki gibi yazın: `hugo --gc --minify`
+3. publish directory'i yandaki gibi yazın: `public`
+4. `GO_VERSION`'u `1.12` ve üstüne ayarlayın
+4. `HUGO_VERSION`'u `0.65.3` ve üstüne ayarlayın
 
-That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
+Artık Forestry'den yaptığınız her düzenleme otomatik olarak sitenizde yayınlanacak.
 
-## Deploy on Vercel
-
-Import your repository in [Vercel](https://vercel.com/new/git/third-party)
-
-[Add a bash script](https://gist.github.com/DirtyF/4f89704ecd619c0dcd439d74115da542#file-hugo_build-sh) and [build steps via a `vercel.json` file](https://gist.github.com/DirtyF/4f89704ecd619c0dcd439d74115da542#file-vercel-json) in your repository in order to build the site.
-
-## Development
+## Geliştirme
 
 ```bash
 # clone your repository
@@ -52,31 +48,31 @@ Import your repository in [Vercel](https://vercel.com/new/git/third-party)
 hugo server
 ```
 
-For more information, see [official Hugo documentation](https://gohugo.io/getting-started/).
+Daha fazla bilgi için :[Hugo Başlangıç Sayfası (ingilizce)](https://gohugo.io/getting-started/).
 
-## Customization
+## Özelleştirme
 
 ### Logo
 
-Add to your projects layout directory your logo's SVG:
+Preojenizin layout konumuna logonuzun SVG dosyasını ekleyin:
 `/layouts/icons/ui/logo.html`
 
-### Socials
+### Sosyal Hesaplar
 
-In order for the Socials to be surfaced in Forestry, you should copy the theme's `config/_default/social.yaml` to your project.
+Forestry'den sosyal hesapları düzenleyebilmek için temanın `config/_default/social.yaml` dosyasını projenize kopyalayın.
 
-### Authors
+### Yazarlar
 
-You should register authors as a taxonomy in your project's `config.yaml``
+Yazarlarınızı taxonomy olarak projenizin `config.yaml` dosyasına eklemeniz gerekli.
 
 ```yaml
 taxonomies:
   author: authors
 ```
 
-#### Creating authors
+#### Yazar profili oluşturma
 
-Add a similar file to your content directory and Front Matter example.
+Buna benzer bir dosyayı content klasörünüze ve de Front Matter'a ekleyin.
 
 ```yaml
 # /content/authors/firstname-lastname/_index.md
@@ -101,19 +97,19 @@ social:
 ---
 ```
 
-#### Assigning authors to posts.
+#### Yazarları içeriğinize ekleme
 
-Add the name of the author to the "authors" field:
+Yazarın adını "authors" kısmına ekleyin:
 
 ```yaml
 authors:
   - Dennis Brotzky
   - Thiago Costa
 ```
-### Newsletter call to action
+### E-posta için bültene kaydolma
 
-This theme includes a shortcode for a newsletter callout form that you can add to any page.
-It uses [formspree.io](//formspree.io/) as proxy to send the actual email. Each month, visitors can send you up to one thousand emails without incurring extra charges. Visit the Formspree site to get get going add your Formspree email to your shortcode like this:
+Bu tema, herhangi bir sayfaya ekleyebileceğiniz bir haber bülteni açıklama formu için bir kısa kod içerir.
+Bu tema [formspree.io](//formspree.io/) sitesini gerçek maili göndermek için bir proxy olarak kullanıyor. Her ay ziyaretçileriniz size kendi maillerini herhangi bir ücret olmadan bin adet gönderebiliyorlar. Formspree e-postanızı aşağıdaki gibi kısa kodunuza eklemek için Formspree sitesini ziyaret edin.
 
 ```
 {{< subscribe email="your@email.com" >}}
