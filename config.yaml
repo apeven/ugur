@@ -1,6 +1,6 @@
-baseURL: "https://apeven.me/ugur"
+baseURL: "https://apeven.me/ugur/"
 languageCode: "tr"
-title: "apeven's blog"
+title: "Uğur Okulları"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
