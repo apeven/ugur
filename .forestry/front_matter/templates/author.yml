@@ -44,4 +44,4 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
-- content/authors/alperen-abak/alperen-abak.md
+- content/authors/alperen-abak/_index.md
