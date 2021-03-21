@@ -1,3 +1,4 @@
+---
 title: Alperen Abak
 bio: |
   Öğrenci
@@ -7,3 +8,4 @@ social:
   - title: github
     url: https://github.com/apeven
 ---
+
