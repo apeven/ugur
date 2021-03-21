@@ -2,7 +2,7 @@
 title: Alperen Abak
 bio: |
   Öğrenci
-avatar: /images/alperen.jpg
+avatar: /static/images/alperen.jpg
 featured: true
 social:
   - title: github
