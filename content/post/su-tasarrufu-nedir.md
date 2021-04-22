@@ -1,5 +1,5 @@
-﻿---
-timeToRead: 0
+---
+timeToRead: 2
 authors:
   - Büşra Gürdoğan
 title: Su tasarrufu nedir?
