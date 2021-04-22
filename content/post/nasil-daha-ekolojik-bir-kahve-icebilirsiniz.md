@@ -1,5 +1,5 @@
 ---
-timeToRead: 0
+timeToRead: 2
 authors:
   - Alperen Abak
 title: Nasıl daha ekolojik bir kahve içebilirsiniz?
