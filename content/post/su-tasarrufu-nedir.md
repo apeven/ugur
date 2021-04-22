@@ -32,7 +32,7 @@ Su tasarrufu suyun boşa harcanmaması, kişisel temizlikte ve ihtiyaçlarımız
 ### **Bahçe**
 - Bahçe ve çiçekleri sulamak için günün serin saatlerini tercih edin. Sabahın erken saatleri veya günün sonu gibi. Böylece su hemen güneş ışığında buharlaşmaz.
 
-`Yararlanılan siteler: 
-[http://www.rcmannesmann.com.tr/](http://www.rcmannesmann.com.tr/) 
-[http://www.cevrebilinci.com/](http://www.cevrebilinci.com/) 
-[https://saski.gov.tr/](https://saski.gov.tr/)`
+`Yararlanılan siteler:`
+`http://www.rcmannesmann.com.tr`
+`http://www.cevrebilinci.com`
+`https://saski.gov.tr`
