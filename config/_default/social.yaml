@@ -1,11 +1,12 @@
-twitter: "https://twitter.com"
-github: "https://github.com"
-linkedin: "https://www.linkedin.com"
-youtube: "https://www.youtube.com"
-dribbble: ""
-instagram: ""
-facebook: ""
-medium: ""
-patreon: ""
-paypal: ""
-unsplash: ""
+---
+twitter: https://twitter.com
+github: ''
+linkedin: ''
+youtube: https://www.youtube.com
+dribbble: ''
+instagram: https://instagram.com
+facebook: https://facebook.com
+medium: ''
+patreon: ''
+paypal: ''
+unsplash: ''
