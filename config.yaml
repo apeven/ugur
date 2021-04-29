@@ -1,5 +1,6 @@
 baseURL: "https://ugur.apeven.me"
 languageCode: "tr"
+defaultContentLanguage: "tr"
 title: "Uğur Okulları"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
