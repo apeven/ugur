@@ -1,7 +1,7 @@
 ---
 timeToRead: 2
 authors:
-- Büsra Gürdogan
+- Busra Gurdogan
 title: Su tasarrufu nedir?
 excerpt: ''
 date: 2021-04-22
