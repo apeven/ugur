@@ -1,7 +1,7 @@
 ---
 timeToRead: 2
 authors:
-  - Büşra Gürdoğan
+  - Büşra Gürdogan
 title: Su tasarrufu nedir?
 excerpt: ''
 date: 2021-04-22
@@ -33,6 +33,9 @@ Su tasarrufu suyun boşa harcanmaması, kişisel temizlikte ve ihtiyaçlarımız
 - Bahçe ve çiçekleri sulamak için günün serin saatlerini tercih edin. Sabahın erken saatleri veya günün sonu gibi. Böylece su hemen güneş ışığında buharlaşmaz.
 
 `Yararlanılan siteler:`
+
 `http://www.rcmannesmann.com.tr`
+
 `http://www.cevrebilinci.com`
+
 `https://saski.gov.tr`
