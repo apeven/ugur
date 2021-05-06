@@ -8,7 +8,8 @@ date: 2021-05-05
 hero: "/images/iklim.jpg"
 
 ---
-# İKLİM DEĞİŞİKLİĞİ
+
+
 
 İklim değişikliği, "Nedeni ne olursa olsun iklimin ortalama durumunda ya da değişkenliğinde onlarca yıl ya da daha uzun süre boyunca gerçekleşen değişiklikler" biçiminde tanımlanmaktadır.
 
