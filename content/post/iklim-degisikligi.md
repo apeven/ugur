@@ -8,9 +8,9 @@ date: 2021-05-05
 hero: "/images/iklim.jpg"
 
 ---
-
-
-
+  
+   
+    
 İklim değişikliği, "Nedeni ne olursa olsun iklimin ortalama durumunda ya da değişkenliğinde onlarca yıl ya da daha uzun süre boyunca gerçekleşen değişiklikler" biçiminde tanımlanmaktadır.
 
 Fosil yakıtların yakılması, arazi kullanımı değişiklikleri, ormansızlaştırma ve sanayi süreçleri gibi insan etkinlikleriyle atmosfere salınan sera gazı birikimlerindeki hızlı artışın doğal sera etkisini kuvvetlendirmesi sonucunda Yerkürenin ortalama yüzey sıcaklıklarındaki artışı küresel ısınmaya ve iklim değişikliğine neden olmaktadır.
